@@ -1,14 +1,11 @@
-# upadhyaya-nisdtx.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio of John Doe</title>
 </head>
 <body>
     <header>
-        <h1 style="text-align:center;">John Doe</h1>
+        <h1 style="text-align:center;font-family:Comic Sans MS;">Ayuska Upadhyaya</h1>
         <p style="text-align:center;">Home | Projects | Blogs | Contact</p>
     </header>
     <h2 style="text-align:center;">Web Developer and Designer</h2>
