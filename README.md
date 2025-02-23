@@ -12,8 +12,9 @@
     <table border="1" width="100%">
         <tr>
             <td>
-                <img src="blank-profile-picture-973460_1280.webp" width="20" height="20"></p>
-                <h3>About Me</h3>
+                </p>
+                <img src="blank-profile-picture-973460_1280.webp" width="70" height="70">
+                <h3 style="text-align:center;">About Me</h3> 
                 <ul>
                    <p>
                        I am a junior at V.R. Eaton High School. I am working hard and learning as much as I can in order to become a Software Engineer. I want to be a student at UT Dallas. Outside of academics, I enjoy music, playing guitar, art, and spending time with friends and family.
