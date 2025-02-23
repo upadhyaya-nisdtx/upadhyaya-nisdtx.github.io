@@ -1,4 +1,32 @@
 <html>
+    <!-- Internal CSS -->
+    <style>
+        body {
+            background-color: #d9e6f7;
+            font-family: Times, serif;
+            color: #2e3e52;
+        }
+        header {
+            text-align: center;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            background-color: #fefff4;
+            border: 1px solid black;
+        }
+        ul {
+            list-style-type: none;
+        }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
