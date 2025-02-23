@@ -5,10 +5,10 @@
 </head>
 <body>
     <header>
-        <h1 style="text-align:center;font-family:Comic Sans MS;">Ayuska Upadhyaya</h1>
-        <p style="text-align:center;">Home | Projects | Blogs | Contact</p>
+        <h1 style="text-align:center;font-family:Times;">Ayuska Upadhyaya</h1>
+        <p style="text-align:center;">Home | Projects | Extracurriculars | Community Service</p>
     </header>
-    <h2 style="text-align:center;">Web Developer and Designer</h2>
+    <h2 style="text-align:center;">High School Student, Aspiring Software/Web Developer</h2>
     <table border="1" width="100%">
         <tr>
             <td>
@@ -29,16 +29,11 @@
             </td>
             <td>
                 <h3>Academic Qualifications</h3>
-                <p>B.Tech (Computer Science) from ABC University</p>
+                <p>3 Years of Computer Science Courses at V.R. Eaton High School</p>
                 <p>Specializations:</p>
                 <ul>
-                    <li>Systems Analysis</li>
-                    <li>Advanced JavaScript Techniques</li>
-                    <li>Web Accessibility Standards</li>
-                    <li>Performance Optimization in Web Applications</li>
-                    <li>Cloud Computing Infrastructure</li>
-                    <li>Security in Web Applications</li>
-                    <li>Advanced Algorithms</li>
+                    <li>Python</li>
+                    <li>HTML</li>
                 </ul>
             </td>
         </tr>
