@@ -12,13 +12,11 @@
     <table border="1" width="100%">
         <tr>
             <td>
-                <h3>Portfolio Highlights</h3>
+                <h3>About Me</h3>
                 <ul>
-                    <li>Responsive HTML Layout</li>
-                    <li>E-commerce Storefront</li>
-                    <li>Interactive Form Design</li>
-                    <li>Event Countdown Widget</li>
-                    <li>Prototype Landing Pages</li>
+                   <p>
+                       I am a junior at V.R. Eaton High School. I am working hard and learning as much as I can in order to become a Software Engineer. I want to be a student at UT Dallas. Outside of academics, I enjoy music, playing guitar, art, and spending time with friends and family.
+                    </p>
                 </ul>
             </td>
             <td>
