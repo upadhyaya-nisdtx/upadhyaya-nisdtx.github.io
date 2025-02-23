@@ -12,7 +12,7 @@
     <table border="1" width="100%">
         <tr>
             <td>
-                <img src="butterfly.png" width="20" height="20"></p>
+                <img src="blank-profile-picture-973460_1280.webp" width="20" height="20"></p>
                 <h3>About Me</h3>
                 <ul>
                    <p>
