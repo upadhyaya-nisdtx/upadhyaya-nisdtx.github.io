@@ -9,7 +9,7 @@
         <p style="text-align:center;font-family:Times;color:#2e3e52;">Home | Projects | Extracurriculars | Community Service</p>
     </header>
     <h2 style="text-align:center;font-family:Times;color:#2e3e52;">High School Student, Aspiring Software/Web Developer</h2>
-    <table border="1" width="100%">
+    <table border="1" width="100%" style="background-color:#fefff4;">
         <tr>
             <td>
                 <img src="blank-profile-picture-973460_1280.webp" width="70" height="70" class="center">
