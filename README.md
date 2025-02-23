@@ -6,26 +6,19 @@
 <body>
     <header>
         <h1 style="text-align:center;font-family:Times;">Ayuska Upadhyaya</h1>
-        <p style="text-align:center;">Home | Projects | Extracurriculars | Community Service</p>
+        <p style="text-align:center;font-family:Times;">Home | Projects | Extracurriculars | Community Service</p>
     </header>
-    <h2 style="text-align:center;">High School Student, Aspiring Software/Web Developer</h2>
+    <h2 style="text-align:center;font-family:Times;">High School Student, Aspiring Software/Web Developer</h2>
     <table border="1" width="100%">
         <tr>
             <td>
-                </p>
                 <img src="blank-profile-picture-973460_1280.webp" width="70" height="70">
-                <h3 style="text-align:center;">About Me</h3> 
+                <h3 style="text-align:center;font-family:Times;">About Me</h3> 
                 <ul>
-                   <p>
+                   <p style="font-family:Times;">
                        I am a junior at V.R. Eaton High School. I am working hard and learning as much as I can in order to become a Software Engineer. I want to be a student at UT Dallas. Outside of academics, I enjoy music, playing guitar, art, and spending time with friends and family.
                     </p>
                 </ul>
-            </td>
-            <td>
-                <h3>Career Achievements</h3>
-                <p>Frontend Developer [Intern] at XYZ<br>Headed major product redesigns resulting in a 40% increase in user engagement.<br><a href="#">View My LinkedIn Profile</a></p>
-                <h3>Community Involvement</h3>
-                <p>Active participant in local and online developer forums. Regularly contribute to web development blogs and GitHub projects.<br><a href="#">Visit My GitHub</a></p>
             </td>
             <td>
                 <h3>Academic Qualifications</h3>
@@ -36,19 +29,17 @@
                     <li>HTML</li>
                 </ul>
             </td>
+            <td>
+                <h3>Professional Skills</h3>
+                <ul>
+                    <li>Teamwork</li>
+                    <li>Time Management</li>
+                    <li>Planning</li>
+                    <li>Organization</li>
+                </ul>
+            </td>
         </tr>
     </table>
-    <h3>Peer Reviews</h3>
-    <table border="1" width="100%">
-        <tr>
-            <td>John Doe consistently delivers high-quality, innovative solutions that exceed project expectations. - Steven, Project Lead</td>
-            <td>John Doe is known for his precise attention to detail and his ability to mentor younger developers. - David, UI Designer</td>
-            <td>John's approach to problem-solving has been instrumental in our success. - Sarah, Frontend Developer</td>
-        </tr>
-    </table>
-    <footer style="text-align:center;">
-        © [2025] All rights reserved by John Doe
-    </footer>
 </body>
 </html>
 
