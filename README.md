@@ -21,21 +21,21 @@
                 </ul>
             </td>
             <td>
-                <h3>Academic Qualifications</h3>
-                <p>3 Years of Computer Science Courses at V.R. Eaton High School</p>
-                <p>Specializations:</p>
+                <h3 style="font-family:Times;">Academic Qualifications</h3>
+                <p style="font-family:Times;">3 Years of Computer Science Courses at V.R. Eaton High School</p>
+                <p style="font-family:Times;" >Specializations:</p>
                 <ul>
-                    <li>Python</li>
-                    <li>HTML</li>
+                    <li style="font-family:Times;" >Python</li>
+                    <li style="font-family:Times;">HTML</li>
                 </ul>
             </td>
             <td>
-                <h3>Professional Skills</h3>
+                <h3 style="font-family:Times;">Professional Skills</h3>
                 <ul>
-                    <li>Teamwork</li>
-                    <li>Time Management</li>
-                    <li>Planning</li>
-                    <li>Organization</li>
+                    <li style="font-family:Times;">Teamwork</li>
+                    <li style="font-family:Times;">Time Management</li>
+                    <li style="font-family:Times;">Planning</li>
+                    <li style="font-family:Times;">Organization</li>
                 </ul>
             </td>
         </tr>
