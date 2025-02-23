@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body style="background-color:#d9e6f7;>
+<body style="background-color:#d9e6f7;">
     <header>
         <h1 style="text-align:center;font-family:Times;">Ayuska Upadhyaya</h1>
         <p style="text-align:center;font-family:Times;">Home | Projects | Extracurriculars | Community Service</p>
