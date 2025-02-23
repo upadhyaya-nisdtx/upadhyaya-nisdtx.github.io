@@ -1,5 +1,7 @@
 <html>
-    <!-- Internal CSS -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             background-color: #d9e6f7;
@@ -27,9 +29,6 @@
             width: 50%;
         }
     </style>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="background-color:#d9e6f7;">
     <header>
