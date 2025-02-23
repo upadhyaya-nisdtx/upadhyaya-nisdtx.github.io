@@ -23,8 +23,8 @@
                 <p style="text-align:center;font-family:Times;color:#2e3e52;">3 Years of Computer Science Courses at V.R. Eaton High School</p>
                 <p style="text-align:center;font-family:Times;color:#2e3e52;" >Specializations:</p>
                 <ul>
-                    <li style="font-family:Times;color:#2e3e52;" >Python</li>
-                    <li style="font-family:Times;color:#2e3e52;">HTML</li>
+                    <li style="text-align:center;font-family:Times;color:#2e3e52;" >Python</li>
+                    <li style="text-align:center;font-family:Times;color:#2e3e52;">HTML</li>
                 </ul>
             </td>
             <td>
