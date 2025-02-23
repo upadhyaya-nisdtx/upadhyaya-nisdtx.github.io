@@ -21,7 +21,7 @@
             <td>
                 <h3 style="text-align:center;font-family:Times;color:#2e3e52;">Academic Qualifications</h3>
                 <p style="text-align:center;font-family:Times;color:#2e3e52;">3 Years of Computer Science Courses at V.R. Eaton High School</p>
-                <h3 style="font-family:Times;color:#2e3e52;" >Specializations:</h3>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;" >Specializations:</h3>
                 <ul>
                     <p style="text-align:center;font-family:Times;color:#2e3e52;">Python, HTML</p>
                 </ul>
