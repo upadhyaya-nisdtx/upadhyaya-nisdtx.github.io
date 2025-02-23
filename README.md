@@ -5,7 +5,7 @@
 </head>
 <body style="background-color:#d9e6f7;">
     <header>
-        <h1 style="text-align:center;font-family:Times;color:#2e3e52;;">Ayuska Upadhyaya</h1>
+        <h1 style="text-align:center;font-family:Times;color:#2e3e52;">Ayuska Upadhyaya</h1>
         <p style="text-align:center;font-family:Times;color:#2e3e52;">Home | Projects | Extracurriculars | Community Service</p>
     </header>
     <h2 style="text-align:center;font-family:Times;color:#2e3e52;">High School Student, Aspiring Software/Web Developer</h2>
@@ -43,3 +43,9 @@
 </body>
 </html>
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
