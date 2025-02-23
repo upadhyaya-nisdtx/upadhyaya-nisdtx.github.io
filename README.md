@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body style="background-color:#d9e6f7;>
     <header>
         <h1 style="text-align:center;font-family:Times;">Ayuska Upadhyaya</h1>
         <p style="text-align:center;font-family:Times;">Home | Projects | Extracurriculars | Community Service</p>
@@ -12,7 +12,7 @@
     <table border="1" width="100%">
         <tr>
             <td>
-                <img src="blank-profile-picture-973460_1280.webp" width="70" height="70">
+                <img src="blank-profile-picture-973460_1280.webp" width="70" height="70" class="center">
                 <h3 style="text-align:center;font-family:Times;">About Me</h3> 
                 <ul>
                    <p style="font-family:Times;">
