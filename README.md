@@ -37,5 +37,32 @@
             </td>
         </tr>
     </table>
+ <table border="1" width="100%" style="background-color:#fefff4;">
+        <tr>
+            <td>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</h3> 
+                   <p style="text-align:center;font-family:Times;color:#2e3e52;">
+                       placeholder
+                    </p>
+            </td>
+            <td>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</h3>
+                <p style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</p>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;" >placeholder</h3>
+                <ul>
+                    <p style="font-family:Times;color:#2e3e52;">placeholder</p>
+                </ul>
+            </td>
+            <td>
+                <h3 style="font-family:Times;color:#2e3e52;text-align:center;">placeholder</h3>
+                <ul>
+                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
+                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
+                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
+                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
