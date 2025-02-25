@@ -128,7 +128,6 @@
                    <p style="text-align:center;font-family:Times;color:#2e3e52;">
                       WIP:
                     </p>
-                </form>
             </td>
         </tr>
     </table>
