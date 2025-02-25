@@ -37,30 +37,21 @@
             </td>
         </tr>
     </table>
+    
  <table border="1" width="100%" style="background-color:#fefff4;">
         <tr>
             <td>
-                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</h3> 
+                <img src="career_tree.jpg" width="300" height="200" style="display:block;margin:auto;">
                    <p style="text-align:center;font-family:Times;color:#2e3e52;">
-                       placeholder
+                      This is the Software Design and Development career tree. It shows different jobs you can have in this field of work.
+                    </p>
+                    <p style="text-align:center;font-family:Times;color:#2e3e52;">
+                      Software engineers develop information systems by designing, developing, and installing software solutions. This career is often in high demand, has high pay, remote work, continuous learning, and flexible working hours.
                     </p>
             </td>
             <td>
-                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</h3>
-                <p style="text-align:center;font-family:Times;color:#2e3e52;">placeholder</p>
-                <h3 style="text-align:center;font-family:Times;color:#2e3e52;" >placeholder</h3>
-                <ul>
-                    <p style="font-family:Times;color:#2e3e52;">placeholder</p>
-                </ul>
-            </td>
-            <td>
-                <h3 style="font-family:Times;color:#2e3e52;text-align:center;">placeholder</h3>
-                <ul>
-                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
-                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
-                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
-                    <li style="font-family:Times;color:#2e3e52;">placeholder</li>
-                </ul>
+                <img src="utd_logo.png" width="100" height="100" style="display:block;margin:auto;">
+                <p style="text-align:center;font-family:Times;color:#2e3e52;">I plan to attend the University of Texas at Dallas </p>
             </td>
         </tr>
     </table>
