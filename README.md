@@ -121,5 +121,16 @@
             </td>
         </tr>
     </table>
+    <table border="1" width="100%" style="background-color:#fefff4;">
+        <tr>
+            <td>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">Projects</h3>
+                   <p style="text-align:center;font-family:Times;color:#2e3e52;">
+                      WIP:
+                    </p>
+                </form>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
