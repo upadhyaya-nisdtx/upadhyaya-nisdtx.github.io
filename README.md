@@ -118,8 +118,4 @@
                     <li style="font-family:Times;color:#2e3e52;">Trash Cleanup (1 hr)</li>
                     <li style="font-family:Times;color:#2e3e52;">Face painting for Shaken Baby Alliance (7 hrs) </li>
                     <li style="font-family:Times;color:#2e3e52;">Teacher Appreciation Project (6 hrs) </li>
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+           
