@@ -6,7 +6,6 @@
 <body style="background-color:#d9e6f7;">
     <header>
         <h1 style="text-align:center;font-family:Times;color:#2e3e52;">Ayuska Upadhyaya</h1>
-        <p style="text-align:center;font-family:Times;color:#2e3e52;">Home | Projects | Extracurriculars | Community Service</p>
     </header>
     <h2 style="text-align:center;font-family:Times;color:#2e3e52;">High School Student, Aspiring Software/Web Developer</h2>
     <table border="1" width="100%" style="background-color:#fefff4;">
@@ -41,7 +40,7 @@
  <table border="1" width="100%" style="background-color:#fefff4;">
         <tr>
             <td>
-                <img src="career_tree.jpg" width="300" height="200" style="display:block;margin:auto;">
+                <img src="career_tree.jpg" width="300" height="200" style="display:block;margin:auto;"> <br>
                    <p style="text-align:center;font-family:Times;color:#2e3e52;">
                       This is the Software Design and Development career tree. It shows different jobs you can have in this field of work.
                     </p>
@@ -51,9 +50,21 @@
             </td>
             <td>
                 <img src="utd_logo.png" width="100" height="100" style="display:block;margin:auto;">
-                <p style="text-align:center;font-family:Times;color:#2e3e52;">I plan to attend the University of Texas at Dallas </p>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">I plan to attend the University of Texas at Dallas </h3>
+            </td>            <td>
+                <h3 style="text-align:center;font-family:Times;color:#2e3e52;">Certifications</h3>
+                <img src="blank-profile-picture-973460_1280.webp" width="70" height="70" style="display:block;margin:auto;">
+                   <p style="text-align:center;font-family:Times;color:#2e3e52;">
+                      Add Python Cert Here
+                    </p>
+                <img src="blank-profile-picture-973460_1280.webp" width="70" height="70" style="display:block;margin:auto;">
+                   <p style="text-align:center;font-family:Times;color:#2e3e52;">
+                      Add Career Safe Cert Here
+                    </p>
             </td>
         </tr>
     </table>
+</body>
+</html>
 </body>
 </html>
