@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body style="background-color:#d3cef4;">
+<body style="background-color:#cfecfe;">
     <header>
         <h1 style="text-align:center;font-family:Times;color:#2e3e52;">Ayuska Upadhyaya</h1>
     </header>
