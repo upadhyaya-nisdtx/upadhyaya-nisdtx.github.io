@@ -1,4 +1,4 @@
-<!-- wip -->
+<!-- Projects -->
 <html>
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <!-- CSS -->
     <style>
         button {
-            background-color: #3498db;
+            background-color: #ffffee;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -17,19 +17,61 @@
         button:hover {
             background-color: #2980b9;
         }
+        .button-container {
+            display: flex;
+            justify-content: center; 
+            gap: 10px; 
+            padding: 20px;
+        }
     </style>
 </head>
 <body style="background-color:#cfecfe;">
     
     <!-- Title -->
-    <header> <h1 style="text-align:center;font-family:Times;color:#2e3e52;"> Projects </h1> </header>
-    <h2 style="text-align:center;font-family:Times;color:#2e3e52;"> title </h2>
+    <br>
+    <header> <h1 style="text-align:center;font-family:Times;color:#2e3e52;"> Ayuska Upadhyaya - EPortfolio </h1> </header>
+    <h2 style="text-align:center;font-family:Times;color:#2e3e52;"> Projects </h2>
     
     <!-- Buttons -->
-    <a href="index.html"> <button style="display: block; margin: 0 auto;">Home</button> </a>
-    <a href="projects.html"> <button style="display: block; margin: 0 auto;">Projects</button> </a>
-    <a href="extra.html"> <button style="display: block; margin: 0 auto;">Community Service</button> </a>
-    <a href="com.html"> <button style="display: block; margin: 0 auto;">Extracurriculars</button> </a>
-    
+    <div class="button-container">
+        <a href="index.html"> <button style="font-family:Times;color:#2e3e52;">Home</button> </a>
+        <a href="projects.html"> <button style="font-family:Times;color:#2e3e52;">Projects</button> </a>
+        <a href="extra.html"> <button style="font-family:Times;color:#2e3e52;">Community Service</button> </a>
+        <a href="com.html"> <button style="font-family:Times;color:#2e3e52;">Extracurriculars</button> </a>
+    </div>
+
+    <!-- Table -->
+    <table border="1" width="100%">
+        <!-- Head -->
+        <thead>
+            <tr>
+                <th>Header 1</th>
+                <th>Header 2</th>
+                <th>Header 3</th>
+            </tr>
+        </thead>
+        <!-- Body -->
+        <tbody>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+        <tr>
+            <td>Data 4</td>
+            <td>Data 5</td>
+            <td>Data 6</td>
+        </tr>
+        </tbody>
+        <!-- Foot -->
+        <tfoot>
+            <tr>
+                <td>Footer 1</td>
+                <td>Footer 2</td>
+                <td>Footer 3</td>
+            </tr>
+        </tfoot>
+        </table>
+        
 </body>
 </html>
